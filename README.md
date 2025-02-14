@@ -46,7 +46,3 @@ The project includes the following analytical components:
   - Implement predictive models to forecast delays.
   - Enhance logistics planning by partnering with high-performing shipping companies.
 
-## How to Use
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-repo/Optimising_Maritime_Logistics.git
