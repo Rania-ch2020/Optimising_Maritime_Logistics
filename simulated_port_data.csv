@@ -1,0 +1,101 @@
+Shipment_ID,Arrival_Date,Departure_Date,Cargo_Type,Shipping_Company,Port_of_Origin,Port_of_Destination,Tonnage,Delay_Days
+SHIP_0001,2024-10-27,2024-10-30,Vehicles,Maersk,Antwerp,Rotterdam,270.05,6
+SHIP_0002,2024-10-27,2024-10-31,General Cargo,Hapag-Lloyd,Shanghai,Shanghai,4695.72,2
+SHIP_0003,2024-08-21,2024-09-04,Liquid Bulk,Evergreen,Singapore,Los Angeles,3998.23,10
+SHIP_0004,2024-04-05,2024-04-07,Vehicles,MSC,Shanghai,Rotterdam,4418.8,6
+SHIP_0005,2024-05-16,2024-05-17,Containers,Evergreen,Tokyo,Dubai,1683.46,1
+SHIP_0006,2024-05-09,2024-05-23,Vehicles,ONE,Singapore,Los Angeles,1990.55,6
+SHIP_0007,2024-01-13,2024-01-27,Containers,ONE,Tokyo,Tokyo,2024.66,8
+SHIP_0008,2024-02-02,2024-02-06,Solid Bulk,CMA CGM,Singapore,Tokyo,1093.0,10
+SHIP_0009,2024-07-01,2024-07-13,Solid Bulk,Evergreen,New York,Los Angeles,1863.56,5
+SHIP_0010,2024-12-27,2025-01-03,Liquid Bulk,COSCO,Singapore,Singapore,2004.62,6
+SHIP_0011,2024-10-16,2024-10-19,Liquid Bulk,COSCO,Tokyo,Antwerp,3771.49,-1
+SHIP_0012,2024-11-01,2024-11-11,Solid Bulk,Maersk,Singapore,Tokyo,1489.77,0
+SHIP_0013,2024-11-05,2024-11-09,General Cargo,ONE,Singapore,Shanghai,4938.7,6
+SHIP_0014,2024-06-22,2024-07-03,Containers,Evergreen,Antwerp,Dubai,3288.05,6
+SHIP_0015,2024-11-11,2024-11-18,Vehicles,Maersk,New York,Dubai,2378.27,9
+SHIP_0016,2024-03-11,2024-03-21,Solid Bulk,Evergreen,Los Angeles,Shanghai,4386.38,3
+SHIP_0017,2024-04-01,2024-04-10,Liquid Bulk,Hapag-Lloyd,Antwerp,Antwerp,1331.34,3
+SHIP_0018,2024-03-19,2024-03-31,Containers,COSCO,Antwerp,Los Angeles,130.06,9
+SHIP_0019,2024-05-23,2024-06-03,General Cargo,ONE,Tokyo,Dubai,3464.22,7
+SHIP_0020,2024-11-12,2024-11-19,Containers,MSC,Antwerp,Tokyo,3733.16,6
+SHIP_0021,2024-09-27,2024-10-10,Vehicles,ONE,Singapore,Antwerp,4622.66,2
+SHIP_0022,2024-05-05,2024-05-16,Solid Bulk,Evergreen,Shanghai,Rotterdam,286.43,2
+SHIP_0023,2024-06-04,2024-06-17,Containers,ONE,Antwerp,Antwerp,4891.76,-1
+SHIP_0024,2024-11-06,2024-11-18,Containers,Hapag-Lloyd,Dubai,New York,3752.04,10
+SHIP_0025,2024-06-09,2024-06-24,Solid Bulk,MSC,Shanghai,Los Angeles,2351.63,5
+SHIP_0026,2024-02-24,2024-02-28,Containers,Hapag-Lloyd,Dubai,Antwerp,1941.06,9
+SHIP_0027,2024-11-16,2024-11-18,Solid Bulk,COSCO,Rotterdam,Rotterdam,2503.65,-2
+SHIP_0028,2024-11-04,2024-11-14,Solid Bulk,CMA CGM,Los Angeles,New York,3450.59,2
+SHIP_0029,2024-05-22,2024-05-23,Vehicles,Hapag-Lloyd,Shanghai,Rotterdam,1611.38,9
+SHIP_0030,2024-08-06,2024-08-09,Solid Bulk,Maersk,Shanghai,Rotterdam,2831.97,2
+SHIP_0031,2024-04-23,2024-05-06,Liquid Bulk,MSC,Los Angeles,Shanghai,956.96,7
+SHIP_0032,2024-06-26,2024-07-01,Liquid Bulk,Maersk,Los Angeles,Antwerp,2500.78,-2
+SHIP_0033,2024-05-24,2024-05-27,Vehicles,ONE,Los Angeles,Antwerp,4329.85,-1
+SHIP_0034,2024-04-28,2024-05-11,Vehicles,COSCO,Tokyo,Rotterdam,1850.56,9
+SHIP_0035,2024-08-25,2024-08-29,General Cargo,MSC,Shanghai,Antwerp,4030.16,-2
+SHIP_0036,2024-01-26,2024-01-31,Solid Bulk,Evergreen,Los Angeles,Singapore,1452.89,5
+SHIP_0037,2024-03-07,2024-03-14,General Cargo,MSC,Los Angeles,Singapore,348.47,10
+SHIP_0038,2024-02-24,2024-02-26,Solid Bulk,Hapag-Lloyd,New York,Singapore,2614.85,10
+SHIP_0039,2024-04-10,2024-04-14,Liquid Bulk,CMA CGM,Shanghai,Tokyo,2529.64,2
+SHIP_0040,2024-01-26,2024-02-04,Containers,CMA CGM,Los Angeles,Shanghai,1841.34,3
+SHIP_0041,2024-06-28,2024-07-07,Vehicles,Evergreen,Tokyo,Tokyo,4170.98,4
+SHIP_0042,2024-01-25,2024-01-30,Containers,MSC,Shanghai,Antwerp,2606.36,3
+SHIP_0043,2024-12-05,2024-12-16,General Cargo,MSC,Rotterdam,Dubai,2308.2,10
+SHIP_0044,2024-05-18,2024-05-21,Vehicles,COSCO,Tokyo,Antwerp,4380.98,10
+SHIP_0045,2024-01-08,2024-01-10,Vehicles,Maersk,Shanghai,Singapore,2931.14,2
+SHIP_0046,2024-01-12,2024-01-24,Vehicles,MSC,Singapore,Dubai,4512.99,9
+SHIP_0047,2024-10-01,2024-10-11,General Cargo,Hapag-Lloyd,Dubai,Rotterdam,4254.07,10
+SHIP_0048,2024-05-09,2024-05-12,Liquid Bulk,COSCO,Rotterdam,Los Angeles,1227.36,0
+SHIP_0049,2024-10-18,2024-10-20,General Cargo,Evergreen,Singapore,Tokyo,1690.72,3
+SHIP_0050,2024-08-05,2024-08-17,Liquid Bulk,Hapag-Lloyd,New York,Singapore,4026.65,2
+SHIP_0051,2024-02-06,2024-02-18,Solid Bulk,Evergreen,Shanghai,Rotterdam,4310.16,9
+SHIP_0052,2024-05-19,2024-06-01,General Cargo,ONE,Dubai,New York,4478.06,-2
+SHIP_0053,2024-03-07,2024-03-19,Solid Bulk,ONE,New York,Singapore,2571.25,7
+SHIP_0054,2024-01-09,2024-01-20,Liquid Bulk,Hapag-Lloyd,Dubai,Antwerp,766.92,7
+SHIP_0055,2024-09-23,2024-09-27,Solid Bulk,COSCO,Los Angeles,Los Angeles,1291.55,9
+SHIP_0056,2024-02-03,2024-02-13,General Cargo,MSC,Shanghai,Los Angeles,1158.21,2
+SHIP_0057,2024-02-25,2024-02-29,Solid Bulk,COSCO,Tokyo,Singapore,3135.2,1
+SHIP_0058,2024-03-22,2024-03-27,General Cargo,Evergreen,Shanghai,Shanghai,4500.08,-1
+SHIP_0059,2024-06-08,2024-06-19,Liquid Bulk,Maersk,New York,New York,2673.77,2
+SHIP_0060,2024-07-13,2024-07-14,Solid Bulk,MSC,Tokyo,Rotterdam,2019.78,10
+SHIP_0061,2024-10-25,2024-10-26,Solid Bulk,Hapag-Lloyd,Singapore,Shanghai,1906.5,1
+SHIP_0062,2024-02-19,2024-02-24,General Cargo,CMA CGM,New York,Rotterdam,2419.55,5
+SHIP_0063,2024-07-11,2024-07-19,Solid Bulk,Maersk,Tokyo,Antwerp,3127.65,7
+SHIP_0064,2024-01-02,2024-01-16,Liquid Bulk,MSC,Antwerp,New York,4895.54,7
+SHIP_0065,2024-12-25,2025-01-02,Solid Bulk,Maersk,Los Angeles,Tokyo,2760.95,-1
+SHIP_0066,2024-05-23,2024-06-07,Liquid Bulk,Hapag-Lloyd,Shanghai,Shanghai,4205.12,4
+SHIP_0067,2024-02-12,2024-02-18,Containers,COSCO,Tokyo,Los Angeles,1590.47,3
+SHIP_0068,2024-03-26,2024-03-27,General Cargo,Evergreen,Shanghai,New York,3813.27,9
+SHIP_0069,2024-04-25,2024-05-03,Solid Bulk,Maersk,Dubai,Rotterdam,949.39,4
+SHIP_0070,2024-04-25,2024-05-09,Containers,Hapag-Lloyd,Tokyo,Dubai,183.94,-2
+SHIP_0071,2024-02-13,2024-02-16,Containers,CMA CGM,Tokyo,Singapore,2432.14,4
+SHIP_0072,2024-04-09,2024-04-23,Vehicles,ONE,Antwerp,Dubai,2519.76,-1
+SHIP_0073,2024-10-14,2024-10-24,Liquid Bulk,Evergreen,Los Angeles,Antwerp,3044.73,-2
+SHIP_0074,2024-03-05,2024-03-14,General Cargo,ONE,Antwerp,Los Angeles,4646.12,1
+SHIP_0075,2024-03-26,2024-03-27,Liquid Bulk,Maersk,Tokyo,Dubai,1381.73,2
+SHIP_0076,2024-04-04,2024-04-08,General Cargo,CMA CGM,Singapore,Los Angeles,638.26,10
+SHIP_0077,2024-04-20,2024-04-21,General Cargo,Maersk,Shanghai,Singapore,1157.22,10
+SHIP_0078,2024-07-16,2024-07-26,General Cargo,ONE,Los Angeles,Singapore,1385.83,-1
+SHIP_0079,2024-02-11,2024-02-18,Vehicles,ONE,New York,Rotterdam,3367.75,10
+SHIP_0080,2024-07-14,2024-07-16,General Cargo,Evergreen,Tokyo,Antwerp,3632.41,0
+SHIP_0081,2024-10-14,2024-10-17,Containers,Maersk,Singapore,New York,4082.1,7
+SHIP_0082,2024-01-15,2024-01-20,General Cargo,Hapag-Lloyd,Singapore,Los Angeles,1185.61,2
+SHIP_0083,2024-01-17,2024-01-28,General Cargo,ONE,Los Angeles,New York,3503.87,2
+SHIP_0084,2024-10-15,2024-10-20,Solid Bulk,Evergreen,Singapore,New York,4022.98,9
+SHIP_0085,2024-09-15,2024-09-19,Containers,CMA CGM,Shanghai,New York,4295.23,8
+SHIP_0086,2024-02-13,2024-02-16,Solid Bulk,Evergreen,New York,New York,1257.16,-2
+SHIP_0087,2024-06-23,2024-06-29,Liquid Bulk,CMA CGM,Rotterdam,Dubai,2417.61,8
+SHIP_0088,2024-05-02,2024-05-08,General Cargo,ONE,Antwerp,Shanghai,2704.84,9
+SHIP_0089,2024-01-20,2024-02-03,Solid Bulk,Evergreen,Rotterdam,Shanghai,2110.27,9
+SHIP_0090,2024-02-17,2024-02-22,Liquid Bulk,Hapag-Lloyd,Dubai,Los Angeles,3144.84,9
+SHIP_0091,2024-03-27,2024-04-03,Vehicles,COSCO,Singapore,Antwerp,2869.03,6
+SHIP_0092,2024-09-12,2024-09-22,Containers,Hapag-Lloyd,Shanghai,Antwerp,3102.31,6
+SHIP_0093,2024-10-24,2024-11-08,Vehicles,MSC,Los Angeles,Rotterdam,2806.17,2
+SHIP_0094,2024-01-14,2024-01-28,Solid Bulk,CMA CGM,Singapore,New York,3151.96,3
+SHIP_0095,2024-01-14,2024-01-19,General Cargo,Evergreen,Shanghai,Rotterdam,1171.74,2
+SHIP_0096,2024-09-24,2024-10-01,Liquid Bulk,Hapag-Lloyd,Tokyo,New York,2783.74,1
+SHIP_0097,2024-06-19,2024-06-26,Liquid Bulk,MSC,New York,Singapore,4339.92,6
+SHIP_0098,2024-07-09,2024-07-17,Containers,MSC,Los Angeles,Rotterdam,952.39,9
+SHIP_0099,2024-04-07,2024-04-22,Solid Bulk,COSCO,New York,Tokyo,3638.75,4
+SHIP_0100,2024-01-22,2024-01-27,General Cargo,Maersk,Shanghai,Singapore,4583.56,0
